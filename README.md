@@ -1,5 +1,6 @@
 
-👨‍💻 Software Developer Trainee | Former HR Specialist | Tech Enthusiast 🚀
+👨‍💻 Software Developer
+
 
 🌟 About Me
 
