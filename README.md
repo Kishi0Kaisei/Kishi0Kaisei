@@ -12,7 +12,7 @@ Technology has been my calling from the beginning, and I'm on an exciting journe
 📚 I've been immersing myself in the world of code and have dabbled in various programming languages, including HTML5, CSS, JS, C#, SQL, PHP, VB and PY. 
 I've experience on Primavera ERP 10 Extensibility, SQL Server, Windows Forms and console applications.
 
-###Currently, I'm looking for a job as a Software Developer
+**Currently, I'm looking for a job as a Software Developer**
 
 🔥 Let's Connect
 
